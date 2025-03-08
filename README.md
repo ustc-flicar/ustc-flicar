@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![](https://img.shields.io/badge/WeChat-ziming__wang2001-green.svg) [![Blog Badge](https://img.shields.io/badge/小红书-ZIMBOT-brightgreen)](https://www.xiaohongshu.com/search_result?keyword=ZIMBOT&source=unknown&search_type=user) [![Mail Badge](https://img.shields.io/badge/-zhengcr@connect.hku.hk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:zimingwang@connect.hku.hk) ![](https://img.shields.io/badge/QQ-1176404300-green.svg)
+ ![](https://img.shields.io/badge/WeChat-ziming__wang2001-green.svg) [![Blog Badge](https://img.shields.io/badge/小红书-ZIMBOT-brightgreen)](https://www.xiaohongshu.com/search_result?keyword=ZIMBOT&source=unknown&search_type=user) [![Mail Badge](https://img.shields.io/badge/-zimingwang@connect.hku.hk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:zimingwang@connect.hku.hk) ![](https://img.shields.io/badge/QQ-1176404300-green.svg)
 
 😄 Hi, I'm Ziming Wang (王梓名). I received my bachelor's degree with excellent graduation thesis in Computer Science and Technology from University of Science and Technology of China (USTC). I am currently pursuing a MPhil. at the [MaRS Lab of HKU](https://mars.hku.hk/), where I focus on pioneering research in Embodided AI, Multi-Modal Perception and SLAM.
 
